@@ -1,3 +1,4 @@
+const { expect } = require('chai');
 const TicTacToe = require('../src/tic-tac-toe.js');
 
 describe('TicTacToe', () => {
